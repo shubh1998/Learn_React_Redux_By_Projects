@@ -1,0 +1,20 @@
+.text-center-heading{
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+
+.right{
+  float: right;
+  margin-right: 10%;
+}
+
+.todolist-heading{
+  text-align: center;
+  background-color: yellow;
+  color: red;
+}
+
+.error-msg{
+    color: red;
+}

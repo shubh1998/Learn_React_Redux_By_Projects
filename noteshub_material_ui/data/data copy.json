@@ -1,0 +1,122 @@
+{
+  "notes": [
+    {
+      "id": "1",
+      "title": "Yoshi's birthday bash",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "status": true,
+      "note_date": "September 14, 2016"
+    },
+    {
+      "id": "2",
+      "title": "Complete my ninja training",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took.",
+      "status": false,
+      "note_date": "September 14, 2016"
+    },
+    {
+      "id": "3",
+      "title": "Order a pizza!",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "status": true,
+      "note_date": "September 14, 2016"
+    },
+    {
+      "id": "4",
+      "title": "Buy Yoshi's Birthday Gift",
+      "description": "Mario ipsum RGB mushroom 1-up. Cloud lakitu slide fire flower pipe jump swim, lava slide koopa troopa side-scrolling starman fire bar koopa paratroopa! Pipe cloud buzzy beetle koopa troopa game over, goomba invincible Mario green shell slide koopa paratroopa fire bar question block 1985 koopa troopa fireball Mushroom Kingdom. Lava Mushroom Kingdom.",
+      "status": false,
+      "note_date": "September 14, 2016"
+    },
+    {
+      "id": "5",
+      "title": "Pay the milkman",
+      "description": "Mario ipsum RGB mushroom 1-up. Cloud lakitu slide fire flower pipe jump swim, lava slide koopa troopa side-scrolling starman fire bar koopa paratroopa! Pipe cloud buzzy beetle koopa troopa game over, goomba invincible Mario green shell slide koopa paratroopa fire bar question block 1985 koopa troopa fireball Mushroom Kingdom. Lava Mushroom Kingdom. Mario ipsum RGB mushroom 1-up. Cloud lakitu slide fire flower pipe jump swim, lava slide koopa troopa side-scrolling starman fire bar koopa paratroopa! Pipe cloud buzzy beetle koopa troopa game over, goomba invincible Mario green shell slide koopa paratroopa fire bar question block 1985 koopa troopa fireball Mushroom Kingdom. Lava Mushroom Kingdom.",
+      "status": true,
+      "note_date": "September 14, 2016"
+    },
+    {
+      "id": "6",
+      "title": "Check my promo codes",
+      "description": "Mario ipsum RGB mushroom 1-up. Cloud lakitu slide fire flower pipe jump swim, lava slide koopa troopa side-scrolling starman fire bar koopa paratroopa! Pipe cloud buzzy beetle koopa troopa game over, goomba invincible Mario green shell slide koopa paratroopa fire bar question block 1985 koopa troopa fireball Mushroom Kingdom. Lava Mushroom Kingdom.",
+      "status": false,
+      "note_date": "September 14, 2016"
+    },
+    {
+      "id": "7",
+      "title": "Make a new website banner",
+      "description": "Mario ipsum RGB mushroom 1-up. Cloud lakitu slide fire flower pipe jump swim, lava slide koopa troopa side-scrolling starman fire bar koopa paratroopa! Pipe cloud buzzy beetle koopa troopa game over, goomba invincible Mario green shell slide koopa paratroopa fire bar question block 1985 koopa troopa fireball Mushroom Kingdom. Lava Mushroom Kingdom.",
+      "status": true,
+      "note_date": "September 14, 2016"
+    },
+    {
+      "title": "Learning",
+      "description": "Learning material ui with react and also learning typescript\n",
+      "status": false,
+      "note_date": "May 5 2021",
+      "id": "aAZQzsw"
+    }
+  ],
+  "JSframeworks": [
+    {
+      "id": "1",
+      "name": "React JS",
+      "author": "Developed and maintained by Facebook",
+      "description": "React (also known as React. js or ReactJS) is an open-source, front end, JavaScript library for building user interfaces or UI components."
+    },
+    {
+      "id": "2",
+      "name": "Angular",
+      "author": "Developed and maintained by Google",
+      "description": "Angular is a platform and framework for building single-page client applications using HTML and TypeScript. Angular is written in TypeScript. It implements core and optional functionality as a set of TypeScript libraries that you import into your apps."
+    },
+    {
+      "id": "3",
+      "name": "Vue JS",
+      "author": "Evan You",
+      "description": "VueJS is an open source progressive JavaScript framework used to develop interactive web interfaces. It is one of the famous frameworks used to simplify web development. VueJS focusses on the view layer."
+    },
+    {
+      "id": "4",
+      "name": "Ember JS",
+      "author": "Yehuda Katz",
+      "description": "Ember.js is a productive, battle-tested JavaScript framework for building modern web applications. It includes everything you need to build rich UIs that work on any device."
+    },
+    {
+      "id": "5",
+      "name": "Backbone JS",
+      "author": "Jeremy Ashkenas",
+      "description": "Backbone.js is a JavaScript library with a RESTful JSON interface and is based on the model–view–controller application design paradigm. Backbone is known for being lightweight, as its only hard dependency is on one JavaScript library, Underscore.js, plus jQuery for use of the full library."
+    },
+    {
+      "id": "6",
+      "name": "Meteor JS",
+      "author": " Meteor Software",
+      "description": "Meteor, or MeteorJS, is a free and open-source isomorphic JavaScript web framework written using Node.js. Meteor allows for rapid prototyping and produces cross-platform code."
+    },
+    {
+      "id": "7",
+      "name": "Mithril JS",
+      "author": "Pat Cavit",
+      "description": "Mithril is a client-side JavaScript framework that is used primarily in developing the Single Page Applications."
+    },
+    {
+      "id": "8",
+      "name": "Node JS",
+      "author": " Ryan Dahl",
+      "description": "Node.js is a server-side JavaScript run-time environment, which works on cross platforms and is open-source. The framework is capable of driving asynchronous I/O with its event-driven architecture."
+    },
+    {
+      "id": "9",
+      "name": "Polymer JS",
+      "author": "Google developers",
+      "description": "The polymer is an open-source JavaScript library developed by Google, which can create the website's elements without going into a complex level."
+    },
+    {
+      "id": "10",
+      "name": "Aurelia",
+      "author": "Durandal inc.",
+      "description": "Aurelia framework is the latest version of JavaScript, which can be used to implement any interface. It is the next generation of the framework for developing far more robust websites."
+    }
+  ]
+}
